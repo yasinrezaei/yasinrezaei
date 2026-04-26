@@ -2,7 +2,6 @@ Hi 👋 My name is Yasin Rezaei
 ==============================
 * 🌍  I'm based in Iran, Tehran
 * 💻  Data Engineer at BluBank
-* 🌱 I’m currently learning Scala, Spark and Akka
 * ✉️  You can contact me at [yasinrezaei@hotmail.com](mailto:yasinrezaei@hotmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
